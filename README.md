@@ -33,16 +33,15 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preetham.m0099@gmail.com)
 
 ---
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=preetham078&theme=dark&hide_border=true)](https://github.com/preetham078)
+
+---
 
 ## 📊 GitHub Stats
 
 ![Preetham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=preetham078&show_icons=true&theme=dark&hide_border=true)
-
----
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=preetham078&theme=dark&hide_border=true)](https://github.com/preetham078)
 
 ---
 
