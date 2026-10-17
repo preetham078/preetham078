@@ -1,16 +1,5 @@
 # 👋 Hi, I'm Preetham M
 
-### 🚀 B.Tech CSE Student | Developer | Tech Enthusiast
-
-I'm a Computer Science Engineering student passionate about **software development, problem solving, web development, app development, AI, and emerging technologies**.
-
-- 🎓 B.Tech in Computer Science Engineering
-- 💻 Interested in Software Development & AI
-- 🌱 Currently improving my DSA and programming 
-- 🔨 Building projects and learning new technologies
-- 🚀 Always interested in turning ideas into real-world projects
-
-
 ---
 
 ## 💻 Languages & Tools
