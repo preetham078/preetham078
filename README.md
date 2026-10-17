@@ -37,6 +37,8 @@ I'm a Computer Science Engineering student passionate about **software developme
 ![Lovable](https://img.shields.io/badge/Lovable-FF4F8B?logo=lovable&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6B00?logo=autodesk&logoColor=white)
 
+---
+
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/11_preetham.m_11)
@@ -65,24 +67,3 @@ I'm a Computer Science Engineering student passionate about **software developme
 
 ---
 
-## 📈 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=preetham078&theme=github-dark&hide_border=true)
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
----
-
-## 📫 Connect With Me
-
-I'm always open to discussing **projects, technology, development, hackathons, and new ideas**.
-
-⭐ If you find my projects useful, consider giving them a star!
-
----
-
-### 🚀 "Learning. Building. Breaking. Improving. Repeating."
