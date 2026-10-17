@@ -37,32 +37,6 @@ I'm a Computer Science Engineering student passionate about **software developme
 ![Lovable](https://img.shields.io/badge/Lovable-FF4F8B?logo=lovable&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6B00?logo=autodesk&logoColor=white)
 
----
-
-## 🚀 Projects
-
-### 🔹 Problinx
-A skill-exchange platform where students can solve real-world problems, earn credits, and learn skills from other students and experts.
-
-**Tech:** HTML, CSS, JavaScript, Firebase / Supabase
-
-### 🔹 Simulated Disaster Scenario
-An interactive web-based disaster simulation designed to demonstrate emergency situations and response strategies.
-
-**Tech:** HTML, CSS, JavaScript
-
-### 🔹 Intelligent Power Grid Restoration Decision-Support System
-A decision-support concept designed to help prioritize power restoration after disasters by considering critical infrastructure such as hospitals, water facilities, and communication systems.
-
-**Tech:** Web Technologies, AI/Decision Support Concepts
-
-### 🔹 Autonomous Mobile Robot (AMR)
-Concept design for a modular warehouse AMR with interchangeable attachments for warehouse automation.
-
-**Tools:** Autodesk Fusion 360, Generative Design, Additive Manufacturing
-
----
-
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/11_preetham.m_11)
