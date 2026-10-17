@@ -13,6 +13,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=preetham078&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=preetham078&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=preetham078&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=preetham078&theme=dark&hide_border=true)](https://github.com/preetham078)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=preetham078&icon=9&color=3)](https://visitcount.itsvg.in)
