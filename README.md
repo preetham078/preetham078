@@ -38,7 +38,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preetham-m-94a488361/)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/PREETHAMM078)
-
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preetham.m0099@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/11_preetham.m_11)
 
