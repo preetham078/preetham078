@@ -43,7 +43,7 @@
 ---
 ## 🔥 GitHub Streak
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=preetham078&theme=dark&hide_border=true)](https://github.com/preetham078)
 
 ---
 
